@@ -1,3 +1,6 @@
+package leetcode
+
+import "strings"
 
 func isValid(s string) bool {
 	if len(s) <= 1 {
